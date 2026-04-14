@@ -1,0 +1,164 @@
+id,state,category,work_type,salary_mid,posting_age_days
+89757,LA,Infrastructure & Technology,Onsite,40302.0,21
+97086,GA,Data & Analytics,Hybrid,111000.0,12
+97086,IL,Data & Analytics,Hybrid,111000.0,12
+97086,NC,Data & Analytics,Hybrid,111000.0,12
+97086,NY,Data & Analytics,Hybrid,111000.0,12
+97086,TX,Data & Analytics,Hybrid,111000.0,12
+89749,LA,Infrastructure & Technology,Onsite,40302.0,17
+89753,LA,Infrastructure & Technology,Onsite,40302.0,21
+89856,LA,Software Engineering,Onsite,64355.0,6
+96267,GA,Sales,Hybrid,79305.0,0
+96267,TX,Sales,Hybrid,79305.0,0
+89833,LA,Infrastructure & Technology,Onsite,40302.0,21
+84961,CA,Software Engineering,Hybrid,128520.0,81
+104291,NY,Infrastructure & Technology,Onsite,154000.0,19
+106410,NY,Consulting,Onsite,96525.0,13
+108007,TX,Sales,Hybrid,94500.0,3
+62944,NY,Infrastructure & Technology,Hybrid,107000.0,3
+89793,LA,Software Engineering,Onsite,64355.0,21
+51166,MN,Enterprise Operations,Hybrid,88000.0,118
+87249,GA,Software Engineering,Onsite,92500.0,70
+87249,IL,Software Engineering,Onsite,92500.0,70
+87249,TX,Software Engineering,Onsite,92500.0,70
+96251,CA,Sales,Onsite,97750.0,0
+96251,DC,Sales,Onsite,97750.0,0
+96251,GA,Sales,Onsite,97750.0,0
+96251,IL,Sales,Onsite,97750.0,0
+96251,NY,Sales,Onsite,97750.0,0
+96251,TX,Sales,Onsite,97750.0,0
+99241,AZ,Infrastructure & Technology,Onsite,120000.0,6
+100053,MI,Infrastructure & Technology,Onsite,64625.0,33
+104302,NY,Infrastructure & Technology,Onsite,51660.0,6
+69163,AZ,Infrastructure & Technology,Onsite,51660.0,123
+87273,CA,Software Engineering,Onsite,92500.0,13
+87273,GA,Software Engineering,Onsite,92500.0,13
+87273,NY,Software Engineering,Onsite,92500.0,13
+87273,TX,Software Engineering,Onsite,92500.0,13
+87273,VA,Software Engineering,Onsite,92500.0,13
+89766,LA,Data & Analytics,Onsite,40302.0,17
+89818,NY,Infrastructure & Technology,Onsite,40302.0,17
+89758,GA,Consulting,Onsite,75650.0,21
+89758,IL,Consulting,Onsite,75650.0,21
+89758,TX,Consulting,Onsite,75650.0,21
+88938,NY,Infrastructure & Technology,Onsite,51660.0,34
+88956,NY,Project Management,Onsite,63000.0,40
+78579,WV,Software Engineering,Onsite,66200.0,118
+95596,TX,Design & UX,Hybrid,107100.0,38
+106260,NY,Consulting,Hybrid,178920.0,4
+89810,NY,Software Engineering,Onsite,64355.0,13
+96261,IL,Data & Analytics,Hybrid,103530.0,52
+102093,IL,Design & UX,Hybrid,78795.0,32
+100860,NC,Consulting,Onsite,99450.0,5
+100860,TX,Consulting,Onsite,99450.0,5
+52231,NY,Enterprise Operations,Hybrid,106800.0,242
+64446,PA,Consulting,Hybrid,75650.0,19
+72695,TX,Infrastructure & Technology,Onsite,85680.0,38
+79649,CA,Software Engineering,Hybrid,151200.0,59
+106859,LA,Data & Analytics,Hybrid,63850.0,17
+87026,NY,Enterprise Operations,Onsite,40302.0,84
+88987,NY,Infrastructure & Technology,Onsite,51660.0,41
+68004,NY,Infrastructure & Technology,Onsite,107100.0,7
+55102,DC,Consulting,Onsite,112200.0,165
+54763,DC,Consulting,Onsite,82700.0,13
+89817,LA,Software Engineering,Onsite,64355.0,13
+108215,TX,Infrastructure & Technology,Onsite,51660.0,4
+89830,GA,Consulting,Onsite,96525.0,21
+89830,IL,Consulting,Onsite,96525.0,21
+89830,TX,Consulting,Onsite,96525.0,21
+89800,LA,Infrastructure & Technology,Onsite,64355.0,21
+89794,LA,Infrastructure & Technology,Onsite,64355.0,21
+106411,IL,Consulting,Onsite,96525.0,4
+86345,NY,Infrastructure & Technology,Hybrid,121600.0,83
+106269,VA,Infrastructure & Technology,Hybrid,158080.0,5
+89765,LA,Infrastructure & Technology,Onsite,40302.0,17
+87020,LA,Infrastructure & Technology,Hybrid,64355.0,87
+89807,LA,Infrastructure & Technology,Onsite,64355.0,21
+95578,GA,Infrastructure & Technology,Hybrid,75650.0,54
+95578,IL,Infrastructure & Technology,Hybrid,75650.0,54
+95578,TX,Infrastructure & Technology,Hybrid,75650.0,54
+64445,PA,Consulting,Hybrid,75650.0,0
+96162,MA,Product Management,Hybrid,135300.0,48
+106900,LA,Data & Analytics,Hybrid,63850.0,17
+84814,TX,Software Engineering,Hybrid,120000.0,60
+87243,AZ,Consulting,Onsite,96525.0,12
+87243,CA,Consulting,Onsite,96525.0,12
+87243,GA,Consulting,Onsite,96525.0,12
+87243,IL,Consulting,Onsite,96525.0,12
+87243,TX,Consulting,Onsite,96525.0,12
+87243,VA,Consulting,Onsite,96525.0,12
+89839,CA,Software Engineering,Onsite,92500.0,21
+89839,GA,Software Engineering,Onsite,92500.0,21
+89839,NY,Software Engineering,Onsite,92500.0,21
+89839,TX,Software Engineering,Onsite,92500.0,21
+89839,VA,Software Engineering,Onsite,92500.0,21
+89841,CA,Software Engineering,Onsite,92500.0,21
+89841,GA,Software Engineering,Onsite,92500.0,21
+89841,NY,Software Engineering,Onsite,92500.0,21
+89841,TX,Software Engineering,Onsite,92500.0,21
+89841,VA,Software Engineering,Onsite,92500.0,21
+84816,WA,Software Engineering,Hybrid,120000.0,76
+87213,AZ,Consulting,Onsite,75650.0,73
+87213,CA,Consulting,Onsite,75650.0,73
+87213,GA,Consulting,Onsite,75650.0,73
+87213,IL,Consulting,Onsite,75650.0,73
+87213,NY,Consulting,Onsite,75650.0,73
+87213,TX,Consulting,Onsite,75650.0,73
+87213,VA,Consulting,Onsite,75650.0,73
+96268,GA,Sales,Hybrid,79305.0,48
+96268,TX,Sales,Hybrid,79305.0,48
+87239,CA,Software Engineering,Onsite,61880.0,87
+87239,GA,Software Engineering,Onsite,61880.0,87
+87239,IL,Software Engineering,Onsite,61880.0,87
+87239,NY,Software Engineering,Onsite,61880.0,87
+87239,TX,Software Engineering,Onsite,61880.0,87
+87239,VA,Software Engineering,Onsite,61880.0,87
+87231,IL,Consulting,Onsite,113000.0,13
+96264,IL,Data & Analytics,Hybrid,76500.0,52
+89836,LA,Software Engineering,Onsite,64355.0,21
+93753,CT,Cloud,Onsite,39360.0,6
+93753,LA,Cloud,Onsite,39360.0,6
+93753,MN,Cloud,Onsite,39360.0,6
+93753,NC,Cloud,Onsite,39360.0,6
+93753,NJ,Cloud,Onsite,39360.0,6
+93753,NY,Cloud,Onsite,39360.0,6
+93753,TX,Cloud,Onsite,39360.0,6
+89847,GA,Data & Analytics,Onsite,99000.0,13
+89847,IL,Data & Analytics,Onsite,99000.0,13
+89847,TX,Data & Analytics,Onsite,99000.0,13
+104296,NY,Infrastructure & Technology,Onsite,51660.0,13
+94205,SC,Consulting,Onsite,75650.0,38
+89763,LA,Infrastructure & Technology,Onsite,40302.0,21
+89729,LA,Infrastructure & Technology,Onsite,40302.0,21
+97088,GA,Design & UX,Hybrid,102000.0,5
+97088,IL,Design & UX,Hybrid,102000.0,5
+97088,NC,Design & UX,Hybrid,102000.0,5
+97088,NY,Design & UX,Hybrid,102000.0,5
+97088,TX,Design & UX,Hybrid,102000.0,5
+87281,GA,Consulting,Onsite,96525.0,70
+87281,IL,Consulting,Onsite,96525.0,70
+87281,TX,Consulting,Onsite,96525.0,70
+89708,GA,Consulting,Onsite,96525.0,21
+89708,IL,Consulting,Onsite,96525.0,21
+89708,NY,Consulting,Onsite,96525.0,21
+89708,TX,Consulting,Onsite,96525.0,21
+89744,AZ,Consulting,Onsite,75650.0,6
+89744,GA,Consulting,Onsite,75650.0,6
+89744,IL,Consulting,Onsite,75650.0,6
+89744,TX,Consulting,Onsite,75650.0,6
+89744,VA,Consulting,Onsite,75650.0,6
+96258,IL,Consulting,Hybrid,87295.0,52
+89837,LA,Infrastructure & Technology,Onsite,40302.0,17
+58488,NC,Data & Analytics,Hybrid,98124.0,4
+79663,NY,Product Management,Hybrid,123000.0,108
+89769,GA,Software Engineering,Onsite,61880.0,21
+89769,IL,Software Engineering,Onsite,61880.0,21
+89769,TX,Software Engineering,Onsite,61880.0,21
+89769,VA,Software Engineering,Onsite,61880.0,21
+104409,TX,Consulting,Hybrid,99000.0,0
+104341,IL,Data & Analytics,Hybrid,75735.0,26
+54779,DC,Data & Analytics,Onsite,84370.0,129
+89826,LA,Infrastructure & Technology,Onsite,40302.0,21
+73026,NY,Infrastructure & Technology,Onsite,51660.0,124
+96248,IL,Consulting,Hybrid,87295.0,52
+93604,MN,Infrastructure & Technology,Onsite,51660.0,40

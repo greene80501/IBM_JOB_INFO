@@ -1,0 +1,37 @@
+city,state,lat,lon,job_count
+Austin,TX,30.2672,-97.7431,25
+Baton Rouge,LA,30.4515,-91.1871,20
+Atlanta,GA,33.749,-84.388,17
+Dallas,TX,32.7767,-96.797,17
+Chicago,IL,41.8781,-87.6298,17
+Houston,TX,29.7604,-95.3698,16
+Poughkeepsie,NY,41.7004,-73.921,10
+Reston,VA,37.5,-78.5,8
+New York,NY,40.7128,-74.006,7
+San Francisco,CA,37.0,-119.0,7
+University Park,IL,41.4464,-87.6848,6
+Buffalo,NY,42.8864,-78.8784,4
+Washington,DC,38.9072,-77.0369,4
+Nyc,NY,43.0,-75.0,3
+Rochester,MN,44.0121,-92.4802,3
+Phoenix,AZ,34.0,-111.0,3
+Brookhaven,GA,33.8651,-84.3366,3
+Durham,NC,35.994,-78.8986,3
+Armonk,NY,41.1265,-73.714,2
+Tucson,AZ,32.2226,-110.9747,2
+San Jose,CA,37.3382,-121.8863,2
+New York City,NC,35.5,-79.0,1
+Lansing,MI,42.7325,-84.5555,1
+Hopewell Junction,NY,41.562,-73.8065,1
+Herndon,VA,38.9696,-77.3861,1
+Bellevue,WA,47.6101,-122.2015,1
+Cambridge,MA,42.3736,-71.1097,1
+Columbia,SC,34.0007,-81.0348,1
+Brooklyn,NY,43.0,-75.0,1
+Monroe,LA,32.5093,-92.1193,1
+Raleigh,NC,35.5,-79.0,1
+Newburgh,NY,43.0,-75.0,1
+Research Triangle Park,NC,35.9049,-78.873,1
+Relocation To The Washington,DC,38.9,-77.0,1
+Rocket Center,WV,39.5612,-78.7998,1
+Yorktown Heights,NY,41.2706,-73.7774,1

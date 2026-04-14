@@ -1,0 +1,22 @@
+IBM Jobs Analytics Summary
+==========================
+Total jobs: 154
+Jobs with inferred U.S. states: 89
+Jobs mapped to multiple U.S. states: 21
+
+Top states by job count:
+- TX (Texas): 27
+- NY (New York): 27
+- IL (Illinois): 23
+- GA (Georgia): 20
+- LA (Louisiana): 20
+- VA (Virginia): 9
+- CA (California): 9
+- AZ (Arizona): 5
+- DC (District of Columbia): 4
+- NC (North Carolina): 4
+- MN (Minnesota): 2
+- MA (Massachusetts): 1
+- MI (Michigan): 1
+- SC (South Carolina): 1
+- WA (Washington): 1
