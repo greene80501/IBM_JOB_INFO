@@ -1,0 +1,51 @@
+item,name,artifact
+1,US choropleth map,01_us_choropleth_state_jobs.html
+2,US city bubble map,02_city_bubble_map.html
+3,Hexbin density hotspots,03_hexbin_hotspots.png
+4,Internship vs full-time density map,04_side_by_side_role_type_density.png
+5,Faceted maps by work type,05_work_type_faceted_maps.png
+6,State by category heatmap,06_state_category_heatmap.png
+7,Top 25 cities bar,07_top25_cities_bar.png
+8,Treemap category/department,08_treemap_category_department.html
+9,Sunburst category-career level-employment,09_sunburst_cat_level_employment.html
+10,Sankey state-category-work,10_sankey_state_category_worktype.html
+11,Stacked bar state by work arrangement,11_state_worktype_stacked_bar.png
+12,Dot plot average salary range by state,12_dotplot_salary_range_by_state.png
+13,Dumbbell salary by category,13_dumbbell_salary_by_category.png
+14,Boxplot salary per category,14_boxplot_salary_by_category.png
+15,Violin salary by top states,15_violin_salary_top_states.png
+16,Scatter salary midpoint vs posting age,16_scatter_salary_vs_posting_age.png
+17,Time series per day/week,17_timeseries_jobs_per_day.png
+18,Calendar heatmap,18_calendar_heatmap.png
+19,Cumulative postings curve,19_cumulative_postings_curve.png
+20,Ridgeline posting dates by category,20_ridgeline_posting_dates.png
+21,Histogram travel phrases by role type,21_hist_travel_by_role_type.png
+22,Donut commission vs non-commission,22_donut_commission.png
+23,Heatmap category vs contract type,23_heatmap_category_contract.png
+24,Heatmap category vs education,24_heatmap_category_education.png
+25,Stacked bar visa language,25_stacked_visa_language.png
+26,Table widest salary spread,26_table_top_salary_spread_roles.csv
+27,Table frequent normalized titles,27_table_frequent_normalized_titles.csv
+28,Word cloud,28_wordcloud_responsibilities.png
+29,Bigram network graph,29_bigram_network.png
+30,Trigram bar chart,30_trigram_bar.png
+31,Skill co-occurrence network,31_skill_cooccurrence_network.png
+32,Skill frequency heatmap by category,32_skill_category_heatmap.png
+33,Radar skill profiles,33_radar_skill_profiles.png
+34,LDA topic model visualization,34_lda_topic_visualization.png
+35,BERTopic/embedding-like clusters,35_bertopic_like_clusters.png
+36,UMAP scatter,36_umap_scatter_category.png
+37,t-SNE embeddings by seniority,37_tsne_seniority.png
+38,Embedding similarity matrix,38_similarity_matrix_heatmap.png
+39,Nearest-neighbor explorer graph,39_nearest_neighbor_graph.png
+40,Cluster composition charts,40a_cluster_composition_state.png
+41,Sentiment distribution by category,41_sentiment_by_category.png
+42,Readability comparison,42_readability_by_category.png
+43,Description length distribution,43_description_length_by_category.png
+44,Named-entity map,44_named_entity_city_state_map.html
+45,Unresolved location cleanup table,45_ambiguous_locations_table.csv
+46,City-to-state flows,46_city_to_state_flow.html
+47,Parallel coordinates,47_parallel_coordinates.html
+48,Pairplot numeric features,48_pairplot_numeric_features.png
+49,Coverage dashboard table,49_coverage_dashboard_table.csv
+50,Interactive dashboard app + html bundle,50_dashboard_app.py
